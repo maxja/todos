@@ -1,2 +1,2 @@
 # todos
-Simple TODOs application
+Simple TODOs application that would be implemented on different languages.
