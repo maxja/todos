@@ -1,0 +1,7 @@
+[package]
+name = "todos"
+version = "0.1.0"
+authors = ["Maxim P. Kalenich <me@maxja.ru>"]
+edition = "2018"
+
+[dependencies]
